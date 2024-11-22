@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/Rahaf-Ayn-Kraie/Rahaf-Ayn-Kraie/refs/heads/main/d2b015ef-affc-4e36-96f9-dde5075e53af.webp?token=GHSAT0AAAAAACXDNP5MPBY3DQOAYPXKAVB4Z2A3DKA)
+![Banner](![banner](https://github.com/user-attachments/assets/f72f0b82-305a-4c6c-8632-97db719c55ba)
+)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5DAF6&vCenter=true&random=true&width=435&lines=I'm+a+software+developer+student;Passionate+about+technology+%26+art)](https://git.io/typing-svg)
 
