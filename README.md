@@ -38,10 +38,11 @@ I'm Rahaf, a passionate and dedicated Web Developer 🎨, currently pursuing a d
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+email!;Rahaf+:)" style="color:pink;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+email!;Rahaf+:)&color=F5A9B8">
 </h3>
+
 
 <br/>
 
-- 📫 You can reach out to me at [rahaf.aynkraie3@gmail.com](mailto:rahaf.aynkraie3@gmail.com).
 ## Let's Connect! 🌐
+- 📫 You can reach out to me at [rahaf.aynkraie3@gmail.com](mailto:rahaf.aynkraie3@gmail.com).
