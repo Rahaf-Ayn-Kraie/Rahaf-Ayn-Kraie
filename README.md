@@ -21,10 +21,9 @@ I'm Rahaf, a passionate and dedicated Web Developer 🎨, currently pursuing a d
 
 ---
 
-<p align="center">
+<p style="text-align: center;">
   ![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-Ayn-Kraie&show_icons=true&theme=date_night)
 </p>
-
 
 ---
 
