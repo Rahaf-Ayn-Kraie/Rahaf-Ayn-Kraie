@@ -20,9 +20,12 @@ I'm Rahaf, a passionate and dedicated Web Developer 🎨, currently pursuing a d
 📚  **Beyond Coding:** When I’m not coding, I immerse myself in novels, books, and anime. These hobbies inspire creativity and give me fresh perspectives that I bring to my projects.
 
 ---
+
 <p align="center">
-<a href="![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-Ayn-Kraie&show_icons=true&theme=date_night)"/></a>
+  ![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-Ayn-Kraie&show_icons=true&theme=date_night)
 </p>
+
+
 ---
 
 ## My Skills 💻
