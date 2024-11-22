@@ -20,22 +20,28 @@ I'm Rahaf, a passionate and dedicated Web Developer 🎨, currently pursuing a d
 📚  **Beyond Coding:** When I’m not coding, I immerse myself in novels, books, and anime. These hobbies inspire creativity and give me fresh perspectives that I bring to my projects.
 
 ---
-
+<p align="center">
 ![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-Ayn-Kraie&show_icons=true&theme=date_night)
-
+</p>
 ---
 
 ## My Skills 💻
 
+---
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
 
 #### 💻 Software and Tools
+
+---
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+email!;Rahaf+:)&color=F5A9B8">
