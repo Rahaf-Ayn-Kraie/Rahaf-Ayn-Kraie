@@ -20,8 +20,15 @@ I'm Rahaf, a passionate and dedicated Web Developer 🎨, currently pursuing a d
 📚  **Beyond Coding:** When I’m not coding, I immerse myself in novels, books, and anime. These hobbies inspire creativity and give me fresh perspectives that I bring to my projects.
 
 ---
+## :bar_chart: GitHub Stats
 
-![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-Ayn-Kraie&show_icons=true&theme=date_night)
+![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-Ayn-Kraie&show_icons=true&theme=dracula)
+
+---
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ---
 
