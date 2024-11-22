@@ -17,7 +17,7 @@ I'm Rahaf, a passionate and dedicated Web Developer 🎨, currently pursuing a d
 
 🎒 **Ongoing Learning:** I am committed to continuous learning, whether it’s mastering new technologies, improving my coding skills, or engaging with the development community. Staying up-to-date in this rapidly evolving field is a priority as I strive to grow as a developer and make meaningful contributions.
 
-📚  **Beyond Coding:** When I’m not coding, I immerse myself in novels, books, and anime. These hobbies inspire creativity and give me fresh perspectives that I bring to my projects.+++
+📚  **Beyond Coding:** When I’m not coding, I immerse myself in novels, books, and anime. These hobbies inspire creativity and give me fresh perspectives that I bring to my projects.
 
 ---
 
